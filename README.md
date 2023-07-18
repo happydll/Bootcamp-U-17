@@ -8,7 +8,7 @@ Takım Unity 17
 - Samed Bekmez: Developer
 - Zeynep Büşra Demir: Developer
 - Beyza Bayrakdar: Developer
-- Zeynep Coşkun: Scrum Master
+- Zeynep Coşkun: Scrum Master/Developer
 - İbrahim Yasin İnan: Product Owner/Developer
 
 ## Ürün İsmi
