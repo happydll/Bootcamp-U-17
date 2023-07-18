@@ -49,6 +49,13 @@ Alınan kararlar: Assetler genel olarak belirlenmiş, sahneler oluşturulmaya ba
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
  
+# Sprint 2
+Alınan kararlar: Oyunu değiştirme kararı alınmıştır ve kule savunma oyunu tarzında bir oyuna geçilmiştir.
+Sprint Review katılımcıları: İbrahim Yasin İnan, Zeynep Coşkun, Beyza Bayrakdar, Samed Bekmez, Zeynep Büşra Demir
+
+- **Sprint Retrospective:**
+
+  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
 
 ---
