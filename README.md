@@ -65,7 +65,7 @@ Sprint Review katılımcıları: İbrahim Yasin İnan, Zeynep Coşkun, Beyza Bay
 - **Daily Scrum**: Daily Scrum toplantılarının discord üzerinden yapılmasına karar verilmiştir, ekip üyelerinin birbirlerine ulaşamaması gibi durumlarda ise telefon üzerinden iletişime geçilmiştir.
 ................... buradan sonrasını düzenle!!!!!!!!!!!!!!!!
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2022-06-06%2000_19_38-Clipboard.png) 
+![Backlog 1](https://github.com/happydll/Bootcamp-U-17/blob/ZeynepCosk/sprint%203%20trello.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
