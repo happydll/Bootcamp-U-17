@@ -82,3 +82,4 @@ Sprint Review katılımcıları:İbrahim Yasin İnan, Zeynep Coşkun, Samed Bekm
 
 (https://miro.com/app/board/uXjVM9wb4a0=/?share_link_id=715556644627)
 
+Assets: https://assetstore.unity.com/?category=3d%2Fcharacters%5C2d%2Fcharacters&orderBy=4
