@@ -16,10 +16,10 @@ Takım Unity 17
 ## Ürün Açıklaması
 ....................... isimli oyunumuzda çeşitli yaratıklar ekrana gelmektedir. Önceden belirlenmiş patikada yürürlerken oyuncuların oyun alanına yerleştireceği kuleler sayesinde alanın savunmasını gerçekleştirilecektir.
 - **Oyun birincil mekanik:**: Kule savunması yaparak ekrana gelen yaratıklardan kurtulmak.
-- **Oyun ikincil mekanik**: ..........................
+
 
 ## Ürün Özellikleri
-- PC, 3D, Hayatta Kalma, Tek Oyunculu..................................
+- PC, 3D, Hayatta Kalma, Tek Oyunculu, Hayatta Kalma
 ## Hedef Kitle
 - Herkes
 ---
@@ -63,20 +63,12 @@ Sprint Review katılımcıları: İbrahim Yasin İnan, Zeynep Coşkun, Beyza Bay
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının discord üzerinden yapılmasına karar verilmiştir, ekip üyelerinin birbirlerine ulaşamaması gibi durumlarda ise telefon üzerinden iletişime geçilmiştir.
-................... buradan sonrasını düzenle!!!!!!!!!!!!!!!!
+
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2022-06-06%2000_19_38-Clipboard.png) 
-
-
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/3.png)
-
+![Backlog 1](https://github.com/happydll/Bootcamp-U-17/blob/ZeynepCosk/sprint%203%20trello.png) 
 
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
-Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
+Sprint Review katılımcıları:İbrahim Yasin İnan, Zeynep Coşkun, Samed Bekmez, Zeynep Büşra Demir
 
 - **Sprint Retrospective:**
 
@@ -89,3 +81,4 @@ Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydo
 ## Product Backlog URL
 
 (https://miro.com/app/board/uXjVM9wb4a0=/?share_link_id=715556644627)
+
