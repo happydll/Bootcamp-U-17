@@ -12,9 +12,9 @@ Takım Unity 17
 - İbrahim Yasin İnan: Product Owner/Developer
 
 ## Ürün İsmi
---.................................
+- Crystal tower "D" -
 ## Ürün Açıklaması
-....................... isimli oyunumuzda çeşitli yaratıklar ekrana gelmektedir. Önceden belirlenmiş patikada yürürlerken oyuncuların oyun alanına yerleştireceği kuleler sayesinde alanın savunmasını gerçekleştirilecektir.
+Crystal tower "D" isimli oyunumuzda çeşitli yaratıklar ekrana gelmektedir. Önceden belirlenmiş patikada yürürlerken oyuncuların oyun alanına yerleştireceği kuleler sayesinde alanın savunmasını gerçekleştirilecektir.
 - **Oyun birincil mekanik:**: Kule savunması yaparak ekrana gelen yaratıklardan kurtulmak.
 
 
