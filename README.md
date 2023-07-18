@@ -12,14 +12,14 @@ Takım Unity 17
 - İbrahim Yasin İnan: Product Owner
 
 ## Ürün İsmi
---TRAUMATİK--
+--.................................
 ## Ürün Açıklaması
-Traumatik isimli oyunumuzda bireyin hayatında yaşadığı travmalarını tek seferde değil de parça parça bilinçaltında sanki kırk yıldır girilmeyen bir evdeki tozları almak gibi yavaş yavaş atlatmasını konu almaktadır.Yeri geldiğinde en cesur savaşçıların bile titremesine neden olabilecek yaratıklar ile göğüs göğüse çarpıştığımız, yeri geldiğinde ise ıssız labirentlerde yalnızlığı ve takip ediliyormuş hissini iliklerimize kadar yaşayacağımız ve hepsini tereyağının kızgın tavada erimesi gibi eriyerek vücudumuzdan atacağız.
-- **Oyun birincil mekanik:**: Balta, çekiç, orak gibi silahlarımızı kullanarak Mahlûkatlar ile savaşmak.
-- **Oyun ikincil mekanik**: Daha ilk günümüzden beri bizi takip eden yaratıktan kaçarken bulmacalarla dolu mekanlarda hayatta kalmak.
-- **Oyun üçüncül mekanik**: Sonuç olarak hepimiz gibi karakterimiz de bir insan olduğu için onun insani ihtiyaçlarını da karşılamalıyız.
+....................... isimli oyunumuzda çeşitli yaratıklar ekrana gelmektedir. Önceden belirlenmiş patikada yürürlerken oyuncuların oyun alanına yerleştireceği kuleler sayesinde alanın savunmasını gerçekleştirilecektir.
+- **Oyun birincil mekanik:**: Kule savunması yaparak ekrana gelen yaratıklardan kurtulmak.
+- **Oyun ikincil mekanik**: ..........................
+
 ## Ürün Özellikleri
-- PC, 3D, TPS, RPG, Hack & Slash, Bulmaca, Hayatta Kalma, Gizem, Korku, Gerilim, Tek Oyunculu
+- PC, 3D, Hayatta Kalma, Tek Oyunculu..................................
 ## Hedef Kitle
 - Herkes
 ---
@@ -48,7 +48,7 @@ Alınan kararlar: Assetler genel olarak belirlenmiş, sahneler oluşturulmaya ba
   - Sprint çoğu ekip üyesinin final takvimine denk geldiği için toplantı saatleri düzenlenmiştir.
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
- 
+--- 
 # Sprint 2
 Alınan kararlar: Oyunu değiştirme kararı alınmıştır ve kule savunma oyunu tarzında bir oyuna geçilmiştir.
 Sprint Review katılımcıları: İbrahim Yasin İnan, Zeynep Coşkun, Beyza Bayrakdar, Samed Bekmez, Zeynep Büşra Demir
@@ -56,6 +56,32 @@ Sprint Review katılımcıları: İbrahim Yasin İnan, Zeynep Coşkun, Beyza Bay
 - **Sprint Retrospective:**
 
   - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+---
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: Başka oyun kararına tekrardan geçildiği için toplam 340 puan
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının discord üzerinden yapılmasına karar verilmiştir, ekip üyelerinin birbirlerine ulaşamaması gibi durumlarda ise telefon üzerinden iletişime geçilmiştir.
+................... buradan sonrasını düzenle!!!!!!!!!!!!!!!!
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2022-06-06%2000_19_38-Clipboard.png) 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/1.png)
+  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2.png)
+  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/3.png)
+
+
+- **Sprint Review**: 
+Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
+Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
+
+- **Sprint Retrospective:**
+
+  - Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
 
 
 ---
